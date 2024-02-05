@@ -23,7 +23,7 @@ We also use the discussions feature to discuss topics related to Digital Thread.
 
 ## Contacts
 
-Contact [Melanie Lorang](mailto:melanie.k.lorang@boeing.com] or [Josh Haines](mailto:Josh@JoshHaines.com) if you have any questions
+Contact [Melanie Lorang](mailto:melanie.k.lorang@boeing.com) or [Josh Haines](mailto:Josh@JoshHaines.com) if you have any questions
 or want help adapting this for another subcommittee or situation.
 
 You should also feel free to raise an issue in the repository to get help or ask a question.
